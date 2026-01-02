@@ -36,12 +36,6 @@ The code in this repository is intended for self-learning, revision, and intervi
 - Focus on clarity over complexity
 - Incremental learning from basics to intermediate concepts
 
-## Future Enhancements
-- Add advanced Java topics (Streams, Multithreading, JVM internals)
-- Add unit test examples
-- Improve documentation with comments and explanations
-- Include coding challenge solutions
-
 ## Disclaimer
 This repository is created purely for learning and practice purposes.  
 It is not intended for production use.
